@@ -116,9 +116,9 @@ ROCm AI Training Repos (External but Related)
 
 Maintained under the founder's personal account:
 
-    https://github.com/thejeangenie18/rocm-7700xt-qlora (github.com in Bing)
+    https://github.com/thejeangenie18/rocm-7700xt-qlora
 
-    https://github.com/thejeangenie18/rocm-7700xt-pytorch (github.com in Bing)
+    https://github.com/thejeangenie18/rocm-7700xt-pytorch
 
 ### 👤 About the Maintainer
 I’m Jillian, a Deaf, neurodivergent, Disabled, non‑traditional coder building the tools I wish existed.
