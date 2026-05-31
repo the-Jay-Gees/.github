@@ -130,8 +130,8 @@ I build community‑first because we deserve each other.
 Clone the flagship project:
 bash
 
-git clone https://github.com/the-Jay-Gees/spoonie-helper.git
-cd spoonie-helper
+```git clone https://github.com/the-Jay-Gees/spoonie-helper.git```
+```cd spoonie-helper```
 
 Documentation lives in the /docs folder.
 Local‑first mode is enabled by default.
@@ -139,7 +139,7 @@ Local‑first mode is enabled by default.
 ### 🤝 Contributing
 See the full CONTRIBUTING.md below.
 Accessibility is not optional here — it is the foundation.
-CONTRIBUTING.md
+[CONTRIBUTING.md](CONTRIBUTING.md)
 Contributing to The Jay Gees Projects
 
 Thank you for wanting to contribute.
