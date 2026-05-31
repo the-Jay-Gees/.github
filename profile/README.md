@@ -4,7 +4,7 @@ The name JG started as jeangenie — a nod to the David Bowie song The Jean Geni
 
 This org is home to the Spoonie Helper project and the experimental infrastructure that powers it, including ROCm‑based local AI training, domain‑scraping tools, and accessibility‑first design patterns.
 
-✨ Mission
+### ✨ Mission
 We build local‑first, privacy‑respecting, accessibility‑centered tools for disabled people — especially spoonies, Deaf/DeafBlind folks, neurodivergent people, and anyone who needs tech that doesn’t treat them as an afterthought.
 
 Our work is grounded in disability justice and the legacy of Camp Jened.
@@ -15,7 +15,7 @@ Our work is grounded in disability justice and the legacy of Camp Jened.
 This quote guides Jened the Spoon, the philosophy behind Spoonie Helper and the Jay Gees:
 we build for each other, with each other, and we build access into the foundation.
 
-🧬 Project History
+### 🧬 Project History
 A narrative timeline of how this org came to be.
 Phase 0 — Domain Scout
 
@@ -47,7 +47,7 @@ Public repos include:
 
 These repos power the local inference and fine‑tuning experiments behind Spoonie Helper.
 
-🥄 Spoonie Helper
+### 🥄 Spoonie Helper
 What it is:
 
 A local‑first assistant for chronically ill and disabled people.
@@ -75,7 +75,7 @@ What it stands for
 
     Privacy‑first: no analytics, no silent network calls
 
-🧩 Key Principles
+### 🧩 Key Principles
 Local‑First Architecture
 
     No silent network calls
@@ -102,7 +102,7 @@ Open Source, But Not Open Season
 
 We welcome contributions — but accessibility, privacy, and community safety come first.
 
-📦 Repositories in This Org
+### 📦 Repositories in This Org (Work in Progress)
 Spoonie Helper (Flagship)
 
 Local‑first disability‑tech assistant.
@@ -114,19 +114,19 @@ AccessiFind / Vendor Finder (Archive)
 Assistive‑tech vendor discovery tool.
 ROCm AI Training Repos (External but Related)
 
-Maintained under your personal account:
+Maintained under the founder's personal account:
 
     https://github.com/thejeangenie18/rocm-7700xt-qlora (github.com in Bing)
 
     https://github.com/thejeangenie18/rocm-7700xt-pytorch (github.com in Bing)
 
-👤 About the Maintainer
+### 👤 About the Maintainer
 I’m Jillian, a Deaf, neurodivergent, Disabled, non‑traditional coder building the tools I wish existed.
 I work local‑first because disabled people deserve privacy.
 I build accessibility‑first because disabled people deserve dignity.
 I build community‑first because we deserve each other.
 
-🚀 Getting Started
+### 🚀 Getting Started
 Clone the flagship project:
 bash
 
@@ -136,7 +136,7 @@ cd spoonie-helper
 Documentation lives in the /docs folder.
 Local‑first mode is enabled by default.
 
-🤝 Contributing
+### 🤝 Contributing
 See the full CONTRIBUTING.md below.
 Accessibility is not optional here — it is the foundation.
 CONTRIBUTING.md
@@ -144,7 +144,8 @@ Contributing to The Jay Gees Projects
 
 Thank you for wanting to contribute.
 This project is built by and for disabled people, and contributions must uphold that purpose.
-🧭 Core Values
+
+### 🧭 Core Values
 
     Accessibility is mandatory
 
@@ -156,16 +157,17 @@ This project is built by and for disabled people, and contributions must uphold 
 
     Disabled people lead the direction of the project
 
-🥄 Jened the Spoon — Our Guiding Philosophy
+### 🥄 Jened the Spoon — Our Guiding Philosophy
 
     “For we are leaders of inclusiveness and community, of love, equity, and justice.”  
     — Judith Heumann
 
 This quote guides the Jay Gees.
 Every contribution must reflect these values.
-🔒 Mandatory Accessibility Standards
 
-1. DeafBlind‑Standard Alt Text
+###🔒 Mandatory Accessibility Standards
+
+DeafBlind‑Standard Alt Text
 
 All images must include:
 
@@ -177,7 +179,7 @@ All images must include:
 
     no interpretation or filler
 
-1. Screen‑Reader‑First Structure
+Screen‑Reader‑First Structure
 
 All UI and docs must use:
 
@@ -191,17 +193,19 @@ All UI and docs must use:
 
     no visual‑only indicators
 
-1. Keyboard‑Only Navigation
+Keyboard‑Only Navigation
 
 All interactive elements must be fully operable without a mouse.
-1. Plain‑Language Documentation
+
+Plain‑Language Documentation
 
 Write clearly, directly, and accessibly.
-1. Local‑First Data Handling
 
+Local‑First Data Handling
 No silent network calls.
 No cloud dependencies without explicit opt‑in.
-🧪 Pull Request Checklist
+
+### 🧪 Pull Request Checklist
 
 Before submitting a PR:
 
@@ -219,7 +223,7 @@ Before submitting a PR:
 
     [ ] PR description is clear and scoped
 
-🐛 Reporting Accessibility Issues
+### 🐛 Reporting Accessibility Issues
 
 Open an issue with:
 
@@ -229,7 +233,7 @@ Open an issue with:
 
     environment details
 
-Accessibility issues are treated as critical.
+### Accessibility issues are treated as critical.
 ❤️ Thank You
 
 Your contributions help build a future where disabled people have tools made for us, not around us.
