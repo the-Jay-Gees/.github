@@ -193,17 +193,19 @@ All UI and docs must use:
 
     no visual‑only indicators
 
-Keyboard‑Only Navigation
+Keyboard‑Only Navigation:
 
-All interactive elements must be fully operable without a mouse.
+    All interactive elements must be fully operable without a mouse.
 
-Plain‑Language Documentation
+    Plain‑Language Documentation
 
-Write clearly, directly, and accessibly.
+    Write clearly, directly, and accessibly.
 
-Local‑First Data Handling
-No silent network calls.
-No cloud dependencies without explicit opt‑in.
+Local‑First Data Handling:
+
+    No silent network calls.
+    
+    No cloud dependencies without explicit opt‑in.
 
 ### 🧪 Pull Request Checklist
 
