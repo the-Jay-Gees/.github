@@ -165,7 +165,7 @@ This project is built by and for disabled people, and contributions must uphold 
 This quote guides the Jay Gees.
 Every contribution must reflect these values.
 
-###🔒 Mandatory Accessibility Standards
+### 🔒 Mandatory Accessibility Standards
 
 DeafBlind‑Standard Alt Text
 
@@ -236,6 +236,7 @@ Open an issue with:
     environment details
 
 ### Accessibility issues are treated as critical.
+
 ❤️ Thank You
 
-Your contributions help build a future where disabled people have tools made for us, not around us.
+Your contributions help build a future where disabled people have tools made for us, not around us. "Nothing about us without us."
